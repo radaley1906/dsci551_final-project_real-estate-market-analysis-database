@@ -37,4 +37,6 @@ You must provide your own credentials in the script before running:
    ```python
    api_key="YOUR_OPENAI_API_KEY"
 
-***Course:*** DSCI 551 - Database Management
+---
+
+***Course:*** DSCI 551 - Foundations of Data Management
