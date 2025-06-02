@@ -14,12 +14,6 @@ An interactive Streamlit-based dashboard for exploring real estate trends and qu
 
 ---
 
-## 🚀 Getting Started
-
-Follow these steps to get the app running locally.
-
----
-
 ### 🔧 Prerequisites
 
 - Python 3.8 or newer
@@ -42,3 +36,5 @@ You must provide your own credentials in the script before running:
    In `v2app_noAPIkeys.py`, locate the line (89):
    ```python
    api_key="YOUR_OPENAI_API_KEY"
+
+***Course:*** DSCI 551 - Database Management
